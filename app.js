@@ -13,11 +13,13 @@ console.log(userage);
 /* variable intro knowledge check above */
 
 
-let user_points = 70;
+let user_points = 30;
 if (user_points >= 75) {
     console.log("congratulations");
-} else {
+} else if (user_points <=25) {
     console.log("believe in yourself you can do it");
+} else { 
+    console.log("keep on trying");
 }
 
 
