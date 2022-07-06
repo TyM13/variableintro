@@ -10,8 +10,15 @@ console.log(userdob);
 let userage = 26;
 console.log(userage);
 
+/* variable intro knowledge check above */
 
-let user_points = 78;
+
+let user_points = 70;
 if (user_points >= 75) {
     console.log("congratulations");
+} else {
+    console.log("believe in yourself you can do it");
 }
+
+
+/* Js Conditionals knowledge check above */
